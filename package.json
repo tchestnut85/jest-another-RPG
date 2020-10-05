@@ -1,0 +1,27 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Command line RPG.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tchestnut85/jest-another-RPG.git"
+  },
+  "keywords": [
+    "RPG",
+    "role-playing",
+    "game"
+  ],
+  "author": "Tom Chestnut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tchestnut85/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/tchestnut85/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.5.0"
+  }
+}
