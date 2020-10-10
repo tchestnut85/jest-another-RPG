@@ -5,6 +5,7 @@
   ## Description
   This is a text-based command line RPG(Role-Playing Game) where you create and name a character which will fight a series of enemies. Battles use Inquirer to choose whether to attack the enemy or use a potion for each turn. The monster will then take its turn to attack your character. This repeats until either your character or the monster's health reaches zero, if your character wins you will battle the next monster.
 
+  #### Screenshot of Jest-Another-RPG:
   ![Screenshot of command-line-RPG](./assets/images/screenshot-1.JPG)
 
   ## Table of Contents
